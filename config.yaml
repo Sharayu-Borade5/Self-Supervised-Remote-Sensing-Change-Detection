@@ -1,0 +1,6 @@
+image_size: 256
+embedding_dim: 256
+batch_size: 8
+temperature: 0.1
+epochs: 50
+device: cuda
